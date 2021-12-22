@@ -1,0 +1,5 @@
+Start the application using : java -jar rest.demo-1.0.jar command
+
+Open Chrome, enter localhost:8080/employees : Prints all the employees in the organisation
+
+localhost:8080/employee/1 : Prints the 1st employee.  '1' can be replaced by any valid employee id
